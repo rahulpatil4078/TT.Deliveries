@@ -10,5 +10,5 @@
 3. Added logging and exception handling classes.
 4. Added unit test classes for handlers.
 
-# To run api
+# Important note to run Api
 Please change the MongoDb database connection string from "appsettings.json" before running the Api.
